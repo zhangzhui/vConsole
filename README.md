@@ -191,6 +191,11 @@ QQ Group: 497430533
 
 ---
 
+## npmjs
+[npmjs package](https://www.npmjs.com/package/vconsole)
+
+---
+
 ## License
 
 [The MIT License](./LICENSE)
